@@ -1,0 +1,12 @@
+.c1 .flbox{
+    display: flex;
+    justify-content: space-between;
+}
+.c1 .flbox .fl{
+    display: block;
+    width: 15%;
+    font-size: 12px;
+}
+.c1 .flbox .fl img{
+    width: 100%;
+}
